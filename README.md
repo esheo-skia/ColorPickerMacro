@@ -76,7 +76,7 @@ label-colors-macro/
 
 **Eunseo Heo (허은서)**  
 Research Software Engineer — Medical Imaging  
-[GitHub](https://github.com/esheo-skia) • [Portfolio](https://eunseo-heo.notion.site/portfolio)
+[GitHub](https://github.com/esheo-skia)
 
 ---
 
