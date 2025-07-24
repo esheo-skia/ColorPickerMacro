@@ -69,7 +69,7 @@ label-colors-macro/
 
 ### Demo – Color Auto-Assignment in Action
 
-![Apply Color Demo](screenshots/ui_demo_apply_color.gif)
+![ColorPickerMacro Demo](screenshots/ColorPickerMacro.gif)
 ---
 
 ## Author
