@@ -43,7 +43,7 @@ label-colors-macro/
 ├── slicerrc_template.py          # Template to auto-load button at Slicer startup
 ├── README.md                     # This file
 └── screenshots/                  # (Optional) UI screenshots
-    └── ui_demo_apply_color.gif
+    └── ColorPickerMacro.gif
 ```
 
 ---
@@ -84,3 +84,5 @@ Research Software Engineer — Medical Imaging
 
 - This tool was developed and validated in real-world annotation workflows.
 - Designed to be minimal, robust, and portable for internal use.
+- Initial commit was made under my secondary GitHub account `heunseoh` for local testing.  
+  All code, design, and updates are authored by myself and maintained on `esheo-skia`.
