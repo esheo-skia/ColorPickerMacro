@@ -70,6 +70,7 @@ label-colors-macro/
 ### Demo – Color Auto-Assignment in Action
 
 ![ColorPickerMacro Demo](screenshots/ColorPickerMacro.gif)
+
 ---
 
 ## Author
@@ -79,6 +80,12 @@ label-colors-macro/
 
 * **Contact:** [heunseo1787@gmail.com]
 * **GitHub:** [https://github.com/esheo-skia]
+
+---
+
+## License
+
+Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
 
 ---
 
