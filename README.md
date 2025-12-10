@@ -74,9 +74,11 @@ label-colors-macro/
 
 ## Author
 
-**Eunseo Heo (허은서)**  
-Research Software Engineer — Medical Imaging  
-[GitHub](https://github.com/esheo-skia)
+**Eunseo Heo (esheo-skia)**<br>
+*Software Developer — Imaging Tools & Automation*
+
+* **Contact:** [heunseo1787@gmail.com]
+* **GitHub:** [https://github.com/esheo-skia]
 
 ---
 
